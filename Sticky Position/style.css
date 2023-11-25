@@ -24,3 +24,8 @@ h2 {
 p {
     text-align: justify;
 }
+
+.footer {
+    position: sticky;
+    bottom: 0px;
+}
