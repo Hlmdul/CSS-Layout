@@ -1,0 +1,11 @@
+p {
+    background-color: bisque;
+}
+
+.absolute {
+    position: absolute;
+    top: 500px;
+    left: 40px;
+    background-color: brown;
+}
+

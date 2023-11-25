@@ -1,0 +1,12 @@
+p {
+    position: relative;
+    top: 100px;
+    background-color: blanchedalmond;
+}
+
+.relative {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    background-color: brown;
+}
